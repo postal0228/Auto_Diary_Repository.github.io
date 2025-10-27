@@ -1,0 +1,8 @@
+title: "Auto Diary"
+description: "自動生成された日記を公開するサイト"
+theme: minima
+lang: ja
+timezone: Asia/Tokyo
+markdown: kramdown
+plugins:
+  - jekyll-feed
