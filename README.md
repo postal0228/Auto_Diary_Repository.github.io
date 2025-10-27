@@ -1,0 +1,2 @@
+# Auto_Diary_Repository
+生成した自動日記を格納してGitHub Pagesに表示するためのリポジトリ。
